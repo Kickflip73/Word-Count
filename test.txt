@@ -1,0 +1,19 @@
+傻逼软件工程作业，软件工程就不该有作业！！！！！！！！！！
+
+The purpose of the Object diagram is similar to that of the class diagram.
+
+The difference is that a class diagram represents an abstract model, including classes and their relationships. However, because the object has a life cycle, the UML Object diagram can only exist in a certain period of time in the system.
+
+This means that the Object diagram is closer to the actual system behavior. The purpose is to capture a static system view at a specific moment.
+
+
+
+The purpose of the Object diagram is summarized as follows:
+
+Forward and reverse engineering;
+
+The relationships between objects in a system;
+
+An interactive static view;
+
+Understanding the behavior of objects and their relationships from a practical perspective.
